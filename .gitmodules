@@ -1,0 +1,3 @@
+[submodule "pandas-ta"]
+	path = pandas-ta
+	url = https://github.com/srirajmk/pandas-ta
